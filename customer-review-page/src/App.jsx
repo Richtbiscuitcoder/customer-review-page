@@ -8,7 +8,7 @@ function App() {
       <ContentBox />
       <StarRating title="Reviews" />
       <StarRating title="Report Guru" />
-      <StarRating title="BestTech" />
+      <StarRating title="BestTech" />ç
       
       </>
   )
