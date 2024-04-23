@@ -1,9 +1,14 @@
+
+.star-container {
+    width: 50%;
+}
+
 .star-box {
     display: flex;
     width: 300px;
     background-color: hsl(300, 35%, 83%);
     position: relative;
-
+   
 }
 
 .star-box p {

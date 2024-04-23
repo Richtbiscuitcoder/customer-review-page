@@ -1,5 +1,20 @@
 .purple-box {
     width: 350px;
     height: 250px;
-    background: rgb(101, 36, 101);;
+    background: rgb(101, 36, 101);
+    padding: 30px;
+}
+
+.purple-box  p {
+    color: white;
+}
+
+.purple-box h1{
+    color: white;
+    font-size: 20px;
+}
+
+.purple-box h3 {
+    color: rgb(184, 68, 126);
+    font-size: 15px;
 }

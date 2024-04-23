@@ -1,11 +1,11 @@
 .main-heading, .main-content {
     color: rgb(101, 36, 101);
-    width: 460px;
+    width: 50%;
     position: relative;
 }
 
 .main-content {
-    font-size: large;
+    font-size: larger;
     position: relative;
     margin-bottom: 300px;
 }
