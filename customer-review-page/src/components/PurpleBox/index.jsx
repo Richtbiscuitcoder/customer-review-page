@@ -1,10 +1,10 @@
 import './styles.css'
 
-const PurpleBox = ({name, review, verified})  => {
+const PurpleBox = ({name, review})  => {
     return (
         <div className='purple-box'>
             <h1>{name}</h1>
-            <h3>{verified}</h3>
+            <h3>Verified Buyer</h3>
             <p>{review}</p>
         </div>
     )
